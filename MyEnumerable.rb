@@ -11,4 +11,11 @@ module MyEnumerable
     end
     false
   end
+  def filter(&block)
+    arr = []
+    each do |item|
+      arr << item if yield(item)
+    end
+    arr
+  end
 end
