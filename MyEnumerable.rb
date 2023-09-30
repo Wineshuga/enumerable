@@ -5,4 +5,10 @@ module MyEnumerable
     end
     true
   end
+  def any?(&block)
+    each do |item|
+      return true if yield(item)
+    end
+    false
+  end
 end
