@@ -85,8 +85,8 @@ No test written for this project yet!
 👤 **Nweneary Uzochukwu Winnie**
 
 - GitHub: [@wineshugea](https://github.com/wineshuga)
-- Twitter: [@wineshuga](https://twitter.com/NazarovaZi)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nazarovazi)
+- Twitter: [@wineshuga](https://twitter.com/wineshuga)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/wineshuga)
 
 👤 **Emiola Akorede**
 
